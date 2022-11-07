@@ -1,13 +1,10 @@
 body {
-    color: rgb(255, 255, 255);
-    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);  
     font-family: Arial, Helvetica, sans-serif;
-    background-size: auto;
     background-repeat: no-repeat;
-    background-position: center;
     background-attachment: fixed;
     background-image: url("../capa4.jpg");
-
+    background-position: center;
 
 }
 
@@ -40,12 +37,10 @@ a{
 header div img {
 
     background-image: url("perfil2.jpg");
-    background-size: contain;
-    background-repeat: no-repeat;
-    width: auto;
-    height: 700px;
     opacity: 70%;
     padding: 0px;
+    width: auto;
+    height: 500px;
  }
 
 
@@ -106,13 +101,13 @@ footer {
 .container {
  text-align: center;  
  width: auto;
- padding: 300px;
+ padding: 50px;
 
  }
 
 div img  {
     height: 400px;   
-    padding: 80px;
+    padding: 50px;
     opacity: 70%;
  
     
@@ -144,12 +139,9 @@ audio {
 
 
  p {
-    margin: 20px;
     background-color: black;
     opacity: 65%;
-    padding: 60px 100px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
 
 
 }
