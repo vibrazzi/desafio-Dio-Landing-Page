@@ -39,7 +39,7 @@ a{
 
 header div img {
 
-    
+    background-image: url("perfil2.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     width: auto;
@@ -56,3 +56,155 @@ nav a:hover {
 }
 
 
+
+.center {
+    text-align: center;
+    padding: 100px;
+}
+
+
+
+
+ol {
+    
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: auto;
+    height: auto;
+    padding-left: 7%;
+    padding-right: 6%;
+   
+    
+  
+    
+    
+}
+
+video {
+    display: flex;
+    justify-content: space-around;
+    width: auto;
+    height: 600px;
+    
+    
+  
+   
+    
+}
+
+
+
+main {
+    
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    text-align: center;
+    padding: 0px;
+    
+}
+
+
+
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+.container {
+ text-align: center;  
+ width: auto;
+ padding: 300px;
+
+ }
+
+div img  {
+    height: 400px;   
+    padding: 80px;
+    opacity: 70%;
+ 
+    
+    
+}
+
+iframe {
+ 
+   width: 800px;
+   height: 400px;
+   padding: 150px;   
+   opacity: 75%;
+}
+
+
+h3{
+text-align: left;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+audio {
+    display: flex;
+    text-align: left;
+    
+   
+ 
+ }
+
+
+ p {
+    margin: 20px;
+    background-color: black;
+    opacity: 65%;
+    padding: 60px 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+
+}
+
+
+ div h5{
+    margin: 30px;
+    background-color: black;
+    opacity: 65%;
+    padding: 60px 300px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+
+
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    text-shadow: crimson;
+}
+
+small a:hover {
+  
+    display: flex;
+    color: greenyellow;
+    justify-content: space-between;
+   
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+  
+    
+}
+
+
+footer img {
+    width: auto;
+    height: 40px;
+    
+}
