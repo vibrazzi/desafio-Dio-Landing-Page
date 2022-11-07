@@ -10,3 +10,49 @@ body {
 
 
 }
+
+
+nav ul {
+
+    background-image: url("../capa21.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    opacity: 85%;
+
+   
+}
+
+a{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+header div img {
+
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 700px;
+    opacity: 70%;
+    padding: 0px;
+ }
+
+
+
+nav a:hover {
+    color: greenyellow
+    
+}
+
+
