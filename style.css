@@ -143,7 +143,9 @@ audio {
     background-color: black;
     opacity: 65%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
+    text-align: center;
+    margin: 6%;
+    padding: 50px;
 
 }
 
@@ -160,10 +162,11 @@ audio {
 
 
 
-h2{
+h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: normal;
     text-shadow: crimson;
+    text-align: center;
 }
 
 small a:hover {
