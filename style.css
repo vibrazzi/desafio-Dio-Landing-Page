@@ -65,23 +65,7 @@ nav a:hover {
 
 
 
-ol {
-    
-    display: flex;
-    justify-content: space-around;
-    list-style-type: none;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    width: auto;
-    height: auto;
-    padding-left: 7%;
-    padding-right: 6%;
    
-    
-  
-    
-    
-}
-
 video {
     display: flex;
     justify-content: space-around;
@@ -191,11 +175,8 @@ h2{
 
 small a:hover {
   
-    display: flex;
+    background-position: 50px;
     color: greenyellow;
-    justify-content: space-between;
-   
-
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
   
